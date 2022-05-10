@@ -1,0 +1,22 @@
+export const eat = require('../../asstes/icons/eat.png');
+export const airplane = require('../../asstes/icons/airplane.png');
+export const barMenu = require('../../asstes/icons/barmenu.png');
+export const compass = require('../../asstes/icons/compass.png');
+export const wind = require('../../asstes/icons/wind.png');
+export const villa = require('../../asstes/icons/villa.png');
+export const user = require('../../asstes/icons/user.png');
+export const taxi = require('../../asstes/icons/taxi.png');
+export const train = require('../../asstes/icons/train.png');
+export const nooStar = require('../../asstes/icons/star-emtpy.png');
+export const search = require('../../asstes/icons/search.png');
+export const menu = require('../../asstes/icons/menu.png');
+export const eventt = require('../../asstes/icons/event.png');
+export const bed = require('../../asstes/icons/bed.png');
+export const homeicon = require('../../asstes/icons/home.png'); 
+export const parking = require('../../asstes/icons/parking.png');
+export const fullstar = require('../../asstes/icons/star.png');
+export const bookMark = require('../../asstes/icons/bookmark.png');
+export const back = require('../../asstes/icons/back.png');
+export const starHalfEmpty = require('../../asstes/icons/star-half-empty.png');
+export const bus = require('../../asstes/icons/bus..png');
+ 
